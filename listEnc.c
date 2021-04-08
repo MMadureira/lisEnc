@@ -18,7 +18,15 @@ int main(){
     ini_aluno = malloc(sizeof(Aluno));
     proximo_aluno = ini_aluno;
 
-    
+    while (1)
+    {
+        printf("\n");
+        printf("Digite o nome = ");
+        scanf("%s", &proximo_aluno->nome);
+
+
+
+    }
 
 }
 
