@@ -4,4 +4,4 @@
   
   * Linguagem: C
   
-<h4>Created by: Matheus Madureira<h4>
+✔️ _Created by: Matheus Madureira_
