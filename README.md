@@ -2,6 +2,6 @@
  
   * Projeto: Lista Encadeada
   
-  * Linguagem: C++
+  * Linguagem: C
   
 <h4>Created by: Matheus Madureira<h4>
